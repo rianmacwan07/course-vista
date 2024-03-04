@@ -1,6 +1,5 @@
 streamlit
 mysql.connector
 matplotlib
-hashlib
 webbrowser
 secrets
